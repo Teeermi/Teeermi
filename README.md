@@ -1,22 +1,14 @@
 <img align="right" src="https://api.visitorbadge.io/api/visitors?path=k1nine&label=VISITORS&countColor=%232ccce4&style=flat" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+k1nine!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome;+I'm+k1nine!;" />
 </h1>
 
 <h3 align="center">A beginner Polish programmer who will start studying Computer Science on October 1st</h3>
 
 <br/>
 
-<div align="center">
- 
- 🔭 I’m currently working on **FiveM Server**
- 
- 🌱 I’m currently learning **React, Next.js, Redux and Tailwind CSS**
 
-💬 Ask me about **My project's... or anything [here](https://github.com/Olaf-Krawczyk/Olaf-Krawczyk/issues)**
-
- </div>
  
 <div align="center"> 
     VIP
