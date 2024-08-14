@@ -1,4 +1,4 @@
-<img align="right" src="https://api.visitorbadge.io/api/visitors?path=k1nine&countColor=%2362cba9&style=flat&labelStyle=lower" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=k1nine.k1nine" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=62CBA9&center=true&vCenter=true&width=435&lines=Welcome;I'm+k1nine" />
