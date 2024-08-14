@@ -1,10 +1,10 @@
-<img align="right" src="https://api.visitorbadge.io/api/visitors?path=k1nine&countColor=%6e0202&style=flat&labelStyle=lower" />
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=k1nine&labelColor=%23000000&countColor=%236e0202&style=flat" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=6e0202&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+k1nine!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=6E0202&center=true&vCenter=true&width=435&lines=W3LC0M3" />
 </h1>
 
-<h3 align="center">A beginner Polish programmer who will start studying Computer Science on October 1st</h3>
+<h3 align="center">A beginner Polish programmer</h3>
 
 <br/>
 
@@ -29,10 +29,10 @@
 <h2 align="center"> Stats </h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=shadow_red&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=shadow_red&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=k1nine&count_private=true&theme=shadow_red&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=k1nine&count_private=true&show_icons=true&theme=shadow_red&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=shadow_red&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=k1nine&hide=HTML&langs_count=8&layout=compact&theme=shadow_red&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
