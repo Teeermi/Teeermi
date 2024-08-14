@@ -1,7 +1,7 @@
 <img align="right" src="https://api.visitorbadge.io/api/visitors?path=k1nine&countColor=%2355d4ab&style=flat&labelStyle=lower" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+k1nine!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=55D4AB&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+k1nine!;" />
 </h1>
 
 <h3 align="center">A beginner Polish programmer who will start studying Computer Science on October 1st</h3>
