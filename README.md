@@ -32,6 +32,8 @@
 <br/>
 <hr/>
 
+![red-hacker-matrix-rxowhi05xduket6f](https://github.com/user-attachments/assets/ee561896-0f67-416a-ba10-8ce61dd440df)
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
