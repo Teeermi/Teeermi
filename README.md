@@ -37,7 +37,7 @@
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,redux,css,html,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=react,tailwind,redux,css,html,figma,github,git" />
 </div>
 
 <br/>
