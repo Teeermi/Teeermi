@@ -14,7 +14,7 @@
 <td width="50%" align="left">
   
 
--  Reach me on discord **WIP**
+-  Reach me on discord **teeermi**
   
 
 </td>
