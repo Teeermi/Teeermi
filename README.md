@@ -5,6 +5,7 @@
 </h1>
 
 <h2 align="center">A beginner Polish programmer</h2>
+<br/>
 
 <table align="center">
 <tr border="none">
