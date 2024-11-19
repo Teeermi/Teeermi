@@ -5,10 +5,6 @@
 </h1>
 
 <h3 align="center">A beginner Polish programmer</h3>
-<br/>
-<br/>
-
-<br/>
 
 <table align="center">
 <tr border="none">
