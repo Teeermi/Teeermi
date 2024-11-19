@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&weight=400&size=40&pause=1000&color=6E0202&center=true&vCenter=true&width=500&height=70&lines=W3LC0M3" />
 </h1>
 
-<h3 align="center">A beginner Polish programmer</h3>
+<h2 align="center">A beginner Polish programmer</h2>
 
 <table align="center">
 <tr border="none">
