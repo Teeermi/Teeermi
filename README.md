@@ -62,9 +62,9 @@
 <h2 align="center">Certificate</h2>
 <br/>
 
-![red-hacker-matrix-rxowhi05xduket6f]([https://github.com/user-attachments/assets/ee561896-0f67-416a-ba10-8ce61dd440df](https://udemy-certificate.s3.amazonaws.com/image/UC-22d95bda-0824-4ffa-924f-9de67542c83a.jpg))
+![react](https://udemy-certificate.s3.amazonaws.com/image/UC-22d95bda-0824-4ffa-924f-9de67542c83a.jpg)
+![js](https://udemy-certificate.s3.amazonaws.com/image/UC-22d8d5fd-7a6c-4355-b36d-101143e78cbe.jpg)
 
-https://udemy-certificate.s3.amazonaws.com/image/UC-22d8d5fd-7a6c-4355-b36d-101143e78cbe.jpg
 
 
 
