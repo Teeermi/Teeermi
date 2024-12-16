@@ -1,4 +1,4 @@
-<img align="right" src="https://api.visitorbadge.io/api/visitors?path=Teeermi&labelColor=%23000000&countColor=%23AB70CD2&style=flat" />
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=Teeermi&labelColor=%23AB70CD&countColor=%2300000&style=flat" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&weight=400&size=40&pause=1000&color=AB70CD&center=true&vCenter=true&width=500&height=70&lines=W3LC0M3" />
